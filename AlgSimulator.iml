@@ -6,11 +6,12 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="openjdk-22" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="openjfx.javafx.base" level="project" />
     <orderEntry type="library" exported="" name="openjfx.javafx.fxml" level="project" />
     <orderEntry type="library" exported="" name="openjfx.javafx.controls" level="project" />
     <orderEntry type="library" exported="" name="openjfx.javafx.graphics" level="project" />
+    <orderEntry type="library" exported="" name="javafx.web" level="project" />
   </component>
 </module>
